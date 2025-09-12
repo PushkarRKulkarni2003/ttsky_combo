@@ -18,7 +18,6 @@ jobs:
         with:
           pdk: sky130
           tools-ref: ttsky25a
-          extra_args_verilator: "--Wno-TIMESCALEMOD"
 
   precheck:
     needs: gds
