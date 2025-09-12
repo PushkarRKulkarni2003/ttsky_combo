@@ -50,6 +50,8 @@ module tb ();
   end
   
 initial begin
+        ena=1;
+        uio_in=8'h00;
         // Start with reset asserted (active-low)
         rst_n = 0;
         data = 0; str  = 0; ctrl = 0; branch = 0; fwrd = 0; crct = 1;
