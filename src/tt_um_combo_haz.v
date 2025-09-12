@@ -1,3 +1,4 @@
+/* verilator lint_off TIMESCALEMOD */
 `default_nettype none
 `timescale 1ns / 1ps
 
@@ -62,3 +63,4 @@ module tt_um_combo_haz(
         end
     end
 endmodule
+/* verilator lint_on TIMESCALEMOD */
