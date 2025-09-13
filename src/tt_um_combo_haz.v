@@ -1,4 +1,3 @@
-/* verilator lint_off TIMESCALEMOD */
 `default_nettype none
 `timescale 1ns / 1ps
 
@@ -62,5 +61,9 @@ module tt_um_combo_haz(
             // else no hazard
         end
     end
+
+assign uo_out[7] = resolved;
+assign uo_out[6] = pc_freeze;
+assign uo_out[5] = do_flush;
+    
 endmodule
-/* verilator lint_on TIMESCALEMOD */
