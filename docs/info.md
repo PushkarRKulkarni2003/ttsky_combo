@@ -7,7 +7,7 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 ## Credits 
-We gratefully acknowledge the CoE in Integrated Circuits and Systems (ICAS) and Department of ECE. Our special thanks to Dr. K S Geetha (Vice Principal), Dr. K N Subramanya (Principal), and Dr. Ravish Aradhya (HoD-ECE) for their constant support and encouragement to do TAPEOUT in SKY25A .
+We gratefully acknowledge the CoE in Integrated Circuits and Systems (ICAS) and Department of ECE. Our special thanks to Dr. K S Geetha (Vice Principal), Dr. K N Subramanya (Principal), and Dr. H V Ravish Aradhya (HoD-ECE) for their constant support and encouragement to do TAPEOUT in SKY25A .
 
 ## How it works
 
